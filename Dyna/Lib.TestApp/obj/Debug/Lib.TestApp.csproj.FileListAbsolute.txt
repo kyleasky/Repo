@@ -1,0 +1,5 @@
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Lib.TestApp\bin\Debug\Lib.TestApp.exe.config
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Lib.TestApp\bin\Debug\Lib.TestApp.exe
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Lib.TestApp\bin\Debug\Lib.TestApp.pdb
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Lib.TestApp\obj\Debug\Lib.TestApp.exe
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Lib.TestApp\obj\Debug\Lib.TestApp.pdb

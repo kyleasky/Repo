@@ -1,0 +1,4 @@
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Dynamo.lib\bin\Debug\Dynamo.lib.dll
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Dynamo.lib\bin\Debug\Dynamo.lib.pdb
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Dynamo.lib\obj\Debug\Dynamo.lib.dll
+C:\Users\MRondero\Documents\Visual Studio 2013\Projects\Dyna\Dynamo.lib\obj\Debug\Dynamo.lib.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo.lib", "Dynamo.lib\Dynamo.lib.csproj", "{781078DE-A8B0-428D-8B77-D25CB0A13702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.TestApp", "Lib.TestApp\Lib.TestApp.csproj", "{299425C0-0C87-44BD-B061-33B57F1353DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781078DE-A8B0-428D-8B77-D25CB0A13702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781078DE-A8B0-428D-8B77-D25CB0A13702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781078DE-A8B0-428D-8B77-D25CB0A13702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781078DE-A8B0-428D-8B77-D25CB0A13702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299425C0-0C87-44BD-B061-33B57F1353DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299425C0-0C87-44BD-B061-33B57F1353DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299425C0-0C87-44BD-B061-33B57F1353DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299425C0-0C87-44BD-B061-33B57F1353DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
